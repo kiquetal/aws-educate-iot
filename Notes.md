@@ -35,14 +35,27 @@
 
 	
 
-	Device Gateway
+######	Device Gateway
 
 	AWS front-end for devices
-
 	Standard protocols MQTT/HTTP
-
 	Scalable, long lived connections.
-
 	Topic Based Architecture.
 
-	 	
+######  Device Registry
+
+	Add metadata to the devices.
+	Add attributes.
+			
+
+######	Device Shadows		
+
+	Copy device on the cloud.
+	Cloud copy to the device.
+	
+######  Rules Engine
+
+	Transform message based on rules and services
+	Operates on sql-like sentences.
+
+######     
